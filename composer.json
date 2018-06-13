@@ -1,0 +1,15 @@
+{
+    "name": "gutian/zipkinhelper",
+    "description": "PHP zipkin helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CodeMonkeyJeffGT",
+            "email": "18846938586@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
